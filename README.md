@@ -1,7 +1,7 @@
 # grocerystore
 
 Grocery store database with functionality includes:
-- inserting to the included tables
+- CRUD for all tables
 - retreiving total sale reports
 - retreiving individual reports for employees
 - retreiving product ratings
